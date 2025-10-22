@@ -1,0 +1,32 @@
+.app {
+  font-family: Arial, sans-serif;
+  max-width: 700px;
+  margin: 30px auto;
+  padding: 16px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+.controls input {
+  padding: 8px;
+  margin-bottom: 12px;
+  width: 200px;
+}
+.chat-area {
+  height: 300px;
+  overflow-y: auto;
+  border: 1px solid #eee;
+  padding: 10px;
+  background: #fafafa;
+  margin-bottom: 12px;
+}
+.chat-line {
+  margin-bottom: 8px;
+}
+.composer input {
+  padding: 8px;
+  width: 70%;
+  margin-right: 8px;
+}
+.composer button {
+  padding: 8px 12px;
+}
