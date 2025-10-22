@@ -1,4 +1,4 @@
-Kafka Chatbot — Full stack (Option A: simple UI)
+Kafka Chatbot — Full stack
 
 Structure:
   backend/
